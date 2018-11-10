@@ -8,4 +8,5 @@ Email saya [lyon.etyo@gmail.com]{mailto:lyon.etyo@gmail.com}
 
 ---
 
-Lihat Index.html
+1.Lihat Index.html
+2.Menambahkan SSH key
